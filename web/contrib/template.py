@@ -5,7 +5,7 @@ import os.path
 
 __all__ = [
     "render_cheetah", "render_genshi", "render_mako",
-    "cache", 
+    "render_jinja", "cache", 
 ]
 
 class render_cheetah:
